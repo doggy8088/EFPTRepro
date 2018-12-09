@@ -1,0 +1,14 @@
+﻿{
+  "ContextClassName": "ContosouniversityContext",
+  "DefaultDacpacSchema": null,
+  "IdReplace": false,
+  "IncludeConnectionString": true,
+  "OutputPath": "Models",
+  "ProjectRootNamespace": "ConsoleApp2",
+  "SelectedToBeGenerated": 0,
+  "Tables": [ "dbo.Course", "dbo.CourseInstructor", "dbo.Department", "dbo.Enrollment", "dbo.OfficeAssignment", "dbo.Person" ],
+  "UseDatabaseNames": false,
+  "UseFluentApiOnly": true,
+  "UseHandleBars": true,
+  "UseInflector": false
+}
